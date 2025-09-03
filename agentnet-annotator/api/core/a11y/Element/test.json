@@ -1,0 +1,1240 @@
+{
+  "AXEnabled": true,
+  "AXChildren": [
+    {
+      "AXTitle": "消息列",
+      "AXChildren": [
+        {
+          "AXChildren": [
+            {
+              "AXFrame": {
+                "x": 120.0,
+                "y": 143.0,
+                "w": 45.0,
+                "h": 22.0,
+                "type": "kAXValueCGRectType"
+              },
+              "AXRole": "AXStaticText",
+              "AXRoleDescription": "text"
+            }
+          ],
+          "AXFrame": {
+            "x": 80.0,
+            "y": 140.0,
+            "w": 258.0,
+            "h": 28.0,
+            "type": "kAXValueCGRectType"
+          },
+          "AXRole": "AXGroup",
+          "AXRoleDescription": "group"
+        }
+      ],
+      "AXFrame": {
+        "x": 72.0,
+        "y": 140.0,
+        "w": 274.0,
+        "h": 28.0,
+        "type": "kAXValueCGRectType"
+      },
+      "AXRole": "AXRow",
+      "AXRoleDescription": "outline row",
+      "AXSubrole": "AXOutlineRow",
+      "AXInvalid": "false"
+    },
+    {
+      "AXTitle": "草稿和已发送",
+      "AXChildren": [
+        {
+          "AXChildren": [
+            {
+              "AXFrame": {
+                "x": 120.0,
+                "y": 171.0,
+                "w": 90.0,
+                "h": 22.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 80.0,
+            "y": 168.0,
+            "w": 258.0,
+            "h": 28.0,
+            "type": "kAXValueCGRectType"
+          }
+        }
+      ],
+      "AXFrame": {
+        "x": 72.0,
+        "y": 168.0,
+        "w": 274.0,
+        "h": 28.0,
+        "type": "kAXValueCGRectType"
+      }
+    },
+    {
+      "AXFrame": {
+        "x": 72.0,
+        "y": 196.0,
+        "w": 274.0,
+        "h": 12.0,
+        "type": "kAXValueCGRectType"
+      }
+    },
+    {
+      "AXChildren": [
+        {
+          "AXChildren": [
+            {
+              "AXTitle": "外部 Slack 联系网",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 221.0,
+                        "w": 124.0,
+                        "h": 22.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 120.0,
+                    "y": 218.0,
+                    "w": 124.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 115.0,
+                "y": 218.0,
+                "w": 129.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              },
+              "AXRole": "AXPopUpButton",
+              "AXRoleDescription": "pop up button"
+            }
+          ]
+        },
+        {
+          "AXChildren": [
+            {
+              "AXTitle": "agent-eval-arena",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 249.0,
+                            "w": 124.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 246.0,
+                        "w": 124.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 246.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 246.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "agent-safety",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 277.0,
+                            "w": 92.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 274.0,
+                        "w": 92.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 274.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 274.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "添加外部人员",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 305.0,
+                                "w": 90.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 80.0,
+                            "y": 302.0,
+                            "w": 258.0,
+                            "h": 28.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 302.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 72.0,
+            "y": 246.0,
+            "w": 274.0,
+            "h": 84.0,
+            "type": "kAXValueCGRectType"
+          },
+          "AXSubrole": "AXApplicationGroup"
+        }
+      ],
+      "AXFrame": {
+        "x": 72.0,
+        "y": 218.0,
+        "w": 274.0,
+        "h": 28.0,
+        "type": "kAXValueCGRectType"
+      },
+      "AXDescription": "Slack Connect"
+    },
+    {
+      "AXChildren": [
+        {
+          "AXTitle": "频道",
+          "AXChildren": [
+            {
+              "AXChildren": [
+                {
+                  "AXFrame": {
+                    "x": 120.0,
+                    "y": 343.0,
+                    "w": 30.0,
+                    "h": 22.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 120.0,
+                "y": 340.0,
+                "w": 30.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 115.0,
+            "y": 340.0,
+            "w": 35.0,
+            "h": 28.0,
+            "type": "kAXValueCGRectType"
+          }
+        },
+        {
+          "AXChildren": [
+            {
+              "AXTitle": "agent-data-agentnet",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 371.0,
+                            "w": 150.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 368.0,
+                        "w": 150.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 368.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 368.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "agent-data-synthesis",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 399.0,
+                            "w": 153.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 396.0,
+                        "w": 153.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 396.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 396.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "agent-method-model",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 427.0,
+                            "w": 153.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 424.0,
+                        "w": 153.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 424.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 424.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "agent-method-worldmodel",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 455.0,
+                            "w": 190.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 452.0,
+                        "w": 190.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 452.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 452.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "general",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 483.0,
+                            "w": 52.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 480.0,
+                        "w": 52.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 480.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 480.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "osworld-omni",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 511.0,
+                            "w": 98.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 120.0,
+                        "y": 508.0,
+                        "w": 98.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ],
+                  "AXFrame": {
+                    "x": 80.0,
+                    "y": 508.0,
+                    "w": 258.0,
+                    "h": 28.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 508.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "添加频道",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 539.0,
+                                "w": 60.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 80.0,
+                            "y": 536.0,
+                            "w": 258.0,
+                            "h": 28.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 536.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 72.0,
+            "y": 368.0,
+            "w": 274.0,
+            "h": 196.0,
+            "type": "kAXValueCGRectType"
+          }
+        }
+      ],
+      "AXFrame": {
+        "x": 72.0,
+        "y": 340.0,
+        "w": 274.0,
+        "h": 28.0,
+        "type": "kAXValueCGRectType"
+      }
+    },
+    {
+      "AXChildren": [
+        {
+          "AXTitle": "私信",
+          "AXChildren": [
+            {
+              "AXChildren": [
+                {
+                  "AXFrame": {
+                    "x": 120.0,
+                    "y": 577.0,
+                    "w": 30.0,
+                    "h": 22.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 120.0,
+                "y": 574.0,
+                "w": 30.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 115.0,
+            "y": 574.0,
+            "w": 35.0,
+            "h": 28.0,
+            "type": "kAXValueCGRectType"
+          }
+        },
+        {
+          "AXFrame": {
+            "x": 330.0,
+            "y": 602.0,
+            "w": 0.0,
+            "h": 0.0,
+            "type": "kAXValueCGRectType"
+          }
+        },
+        {
+          "AXChildren": [
+            {
+              "AXTitle": "Jing Hua、 Tao Yu、 Tianbao Xie、 Xinyuan Wang",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 91.0,
+                            "y": 605.0,
+                            "w": 1.0,
+                            "h": 1.0,
+                            "type": "kAXValueCGRectType"
+                          },
+                          "AXRole": "AXImage",
+                          "AXRoleDescription": "image"
+                        },
+                        {
+                          "AXFrame": {
+                            "x": 92.0,
+                            "y": 606.0,
+                            "w": 14.0,
+                            "h": 14.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        },
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 605.0,
+                                "w": 62.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXValue": "Jing Hua"
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 181.0,
+                                "y": 605.0,
+                                "w": 21.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXValue": "、 "
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 201.0,
+                                "y": 605.0,
+                                "w": 51.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXValue": "Tao Yu"
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 251.0,
+                                "y": 605.0,
+                                "w": 21.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 271.0,
+                                "y": 605.0,
+                                "w": 51.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXValue": "Tianbao Xie"
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 630.0,
+                                "w": 0.0,
+                                "h": 0.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            },
+                            { "AXValue": "Xinyuan Wang" }
+                          ],
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 602.0,
+                            "w": 208.0,
+                            "h": 28.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 80.0,
+                        "y": 602.0,
+                        "w": 258.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 602.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "离线 Jing Hua",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 91.0,
+                                "y": 633.0,
+                                "w": 1.0,
+                                "h": 1.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 103.0,
+                                "y": 642.0,
+                                "w": 16.0,
+                                "h": 16.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXDescription": "离线"
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 92.0,
+                            "y": 634.0,
+                            "w": 20.0,
+                            "h": 20.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        },
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 633.0,
+                                "w": 62.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 630.0,
+                            "w": 62.0,
+                            "h": 28.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 80.0,
+                        "y": 630.0,
+                        "w": 258.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 630.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "离线 Tao Yu",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 91.0,
+                                "y": 661.0,
+                                "w": 1.0,
+                                "h": 1.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 103.0,
+                                "y": 670.0,
+                                "w": 16.0,
+                                "h": 16.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 92.0,
+                            "y": 662.0,
+                            "w": 20.0,
+                            "h": 20.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        },
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 661.0,
+                                "w": 50.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 658.0,
+                            "w": 50.0,
+                            "h": 28.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 80.0,
+                        "y": 658.0,
+                        "w": 258.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 658.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "在线 Bryan Wang你",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 91.0,
+                                "y": 689.0,
+                                "w": 1.0,
+                                "h": 1.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 103.0,
+                                "y": 698.0,
+                                "w": 16.0,
+                                "h": 16.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXDescription": "在线"
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 92.0,
+                            "y": 690.0,
+                            "w": 20.0,
+                            "h": 20.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        },
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 689.0,
+                                "w": 85.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXValue": "Bryan Wang"
+                            },
+                            {
+                              "AXFrame": {
+                                "x": 212.0,
+                                "y": 689.0,
+                                "w": 16.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              },
+                              "AXValue": "你"
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 686.0,
+                            "w": 108.0,
+                            "h": 28.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 80.0,
+                        "y": 686.0,
+                        "w": 258.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 686.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "添加同事",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 717.0,
+                            "w": 60.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 80.0,
+                        "y": 714.0,
+                        "w": 258.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 714.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 72.0,
+            "y": 602.0,
+            "w": 274.0,
+            "h": 140.0,
+            "type": "kAXValueCGRectType"
+          }
+        }
+      ],
+      "AXFrame": {
+        "x": 72.0,
+        "y": 574.0,
+        "w": 274.0,
+        "h": 28.0,
+        "type": "kAXValueCGRectType"
+      }
+    },
+    {
+      "AXChildren": [
+        {
+          "AXTitle": "应用",
+          "AXChildren": [
+            {
+              "AXChildren": [
+                {
+                  "AXFrame": {
+                    "x": 120.0,
+                    "y": 755.0,
+                    "w": 30.0,
+                    "h": 22.0,
+                    "type": "kAXValueCGRectType"
+                  }
+                }
+              ],
+              "AXFrame": {
+                "x": 120.0,
+                "y": 752.0,
+                "w": 30.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 115.0,
+            "y": 752.0,
+            "w": 35.0,
+            "h": 28.0,
+            "type": "kAXValueCGRectType"
+          }
+        },
+        {
+          "AXChildren": [
+            {
+              "AXTitle": "Slackbot",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 92.0,
+                            "y": 784.0,
+                            "w": 20.0,
+                            "h": 20.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        },
+                        {
+                          "AXChildren": [
+                            {
+                              "AXFrame": {
+                                "x": 120.0,
+                                "y": 783.0,
+                                "w": 61.0,
+                                "h": 22.0,
+                                "type": "kAXValueCGRectType"
+                              }
+                            }
+                          ],
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 780.0,
+                            "w": 61.0,
+                            "h": 28.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 80.0,
+                        "y": 780.0,
+                        "w": 258.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 780.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            },
+            {
+              "AXTitle": "添加应用",
+              "AXChildren": [
+                {
+                  "AXChildren": [
+                    {
+                      "AXChildren": [
+                        {
+                          "AXFrame": {
+                            "x": 120.0,
+                            "y": 811.0,
+                            "w": 60.0,
+                            "h": 22.0,
+                            "type": "kAXValueCGRectType"
+                          }
+                        }
+                      ],
+                      "AXFrame": {
+                        "x": 80.0,
+                        "y": 808.0,
+                        "w": 258.0,
+                        "h": 28.0,
+                        "type": "kAXValueCGRectType"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "AXFrame": {
+                "x": 72.0,
+                "y": 808.0,
+                "w": 274.0,
+                "h": 28.0,
+                "type": "kAXValueCGRectType"
+              }
+            }
+          ],
+          "AXFrame": {
+            "x": 72.0,
+            "y": 780.0,
+            "w": 274.0,
+            "h": 56.0,
+            "type": "kAXValueCGRectType"
+          }
+        }
+      ],
+      "AXFrame": {
+        "x": 72.0,
+        "y": 752.0,
+        "w": 274.0,
+        "h": 28.0,
+        "type": "kAXValueCGRectType"
+      },
+      "AXDescription": "最近的应用"
+    }
+  ],
+  "AXFrame": {
+    "x": 72.0,
+    "y": 128.0,
+    "w": 274.0,
+    "h": 756.0,
+    "type": "kAXValueCGRectType"
+  },
+  "AXRole": "AXOutline",
+  "AXRoleDescription": "outline",
+  "AXDescription": "频道和私信"
+}

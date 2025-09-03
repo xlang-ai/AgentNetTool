@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+
+:root {
+  --gradient-end-light: white;
+  --gradient-end-dark: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --gradient-end: var(--gradient-end-dark);
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --gradient-end: var(--gradient-end-light);
+  }
+}
+
+.truncate-gradient {
+  position: relative;
+  display: block;
+  width: 100%; /* Adjust width as necessary */
+  min-height: 1.8em;
+  max-height: 3.2em; /* Adjust based on your font-size and line-height */
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.truncate-gradient::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 1em;
+  background: linear-gradient(to bottom, transparent, var(--gradient-end));
+}
+
+@keyframes tilt {
+  0%,
+  50%,
+  100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(1deg);
+  }
+  75% {
+    transform: rotate(-1deg);
+  }
+}
+
+.animate-tilt {
+  animation: tilt 10s infinite linear;
+}
