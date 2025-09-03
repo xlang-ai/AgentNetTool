@@ -6,7 +6,7 @@
   line-height:1.25;
   text-align:center;
   margin:0 0 24px;">
-  AgentNetTool
+  AgentNetTool: Computer-Use Task Annotation Platform
 </h1>
 
 <p align="center">
